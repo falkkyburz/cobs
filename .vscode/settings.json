@@ -1,0 +1,26 @@
+{
+    "editor.formatOnSave": true,
+    "C_Cpp.doxygen.generatedStyle": "/*!",
+    "files.autoSave": "onWindowChange",
+    "editor.fontFamily": "'DejaVu Sans Mono', 'Courier New', monospace",
+    "C_Cpp.clang_format_fallbackStyle": "Visual Studio",
+    "files.associations": {
+        "compare": "c",
+        "stdint.h": "c",
+        "stddef.h": "c",
+        "stdio.h": "c"
+    },
+    "terminal.integrated.profiles.windows": {
+        "MSYS2_MINGW64": {
+            "path": "C:\\msys64\\usr\\bin\\bash.exe",
+            "args": [
+                "--login",
+                "-i"
+            ],
+            "env": {
+                "MSYSTEM": "MINGW64",
+                "CHERE_INVOKING": "1"
+            }
+        }
+    },
+}
